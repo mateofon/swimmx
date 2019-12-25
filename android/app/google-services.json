@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502967051077",
+    "firebase_url": "https://swimmx-be0ec.firebaseio.com",
+    "project_id": "swimmx-be0ec",
+    "storage_bucket": "swimmx-be0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502967051077:android:b7bd458813c0f41d19142c",
+        "android_client_info": {
+          "package_name": "com.example.swimmx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502967051077-06dbnv0041uds9e246fbdd7demklbi9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swimmx",
+            "certificate_hash": "c46c05da4b7a2cf5ea2fbd62c289242f4014443a"
+          }
+        },
+        {
+          "client_id": "502967051077-93r6e57ebh7fqs3rgvro2fd1d0bsls7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOnXf1rZnklP5exUpueuMiuDj9fWE3ZOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502967051077-93r6e57ebh7fqs3rgvro2fd1d0bsls7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
